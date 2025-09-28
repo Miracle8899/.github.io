@@ -1,0 +1,1 @@
+const a=["发布不适当内容对我造成骚扰","存在欺诈骗钱行为","此账号可能被盗用","存在侵权行为","发布仿冒品信息","冒充他人","侵犯未成年人权益","粉丝无底线追星行为"],E=["色情","违法犯罪及违禁品","赌博","政治谣言","暴恐血腥","自杀自残","其他违规内容"],_=["发布不适当内容对我造成骚扰"],e={MIN_CONTENT_LENGTH:10,MAX_IMAGE_COUNT:9,MAX_IMAGE_SIZE:5242880,ALLOWED_IMAGE_TYPES:["image/jpeg","image/png","image/gif","image/webp"]};export{a as C,e as F,_ as R,E as V};
